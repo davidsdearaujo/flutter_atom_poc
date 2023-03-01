@@ -1,6 +1,6 @@
 {
-    "name": "atom_poc",
-    "short_name": "atom_poc",
+    "name": "atom_mobx",
+    "short_name": "atom_mobx",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

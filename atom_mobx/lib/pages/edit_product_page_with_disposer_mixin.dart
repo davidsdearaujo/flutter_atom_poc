@@ -1,4 +1,4 @@
-import 'package:atom_poc/core.dart';
+import 'package:atom_mobx/core.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart' as mobx;

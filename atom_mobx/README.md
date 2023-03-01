@@ -1,4 +1,4 @@
-# atom_poc
+# atom_mobx
 
 A new Flutter project.
 

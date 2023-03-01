@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "atom_poc" "\0"
+            VALUE "FileDescription", "atom_mobx" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "atom_poc" "\0"
+            VALUE "InternalName", "atom_mobx" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "atom_poc.exe" "\0"
-            VALUE "ProductName", "atom_poc" "\0"
+            VALUE "OriginalFilename", "atom_mobx.exe" "\0"
+            VALUE "ProductName", "atom_mobx" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

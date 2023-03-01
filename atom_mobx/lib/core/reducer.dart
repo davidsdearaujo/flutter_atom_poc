@@ -1,4 +1,4 @@
-import 'package:atom_poc/core.dart';
+import 'package:atom_mobx/core.dart';
 import 'package:flutter/foundation.dart';
 
 abstract class Reducer {

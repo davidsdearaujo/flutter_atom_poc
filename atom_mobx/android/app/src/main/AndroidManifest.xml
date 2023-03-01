@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.atom_poc">
+    package="com.example.atom_mobx">
    <application
-        android:label="atom_poc"
+        android:label="atom_mobx"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
